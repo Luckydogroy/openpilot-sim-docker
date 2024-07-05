@@ -84,7 +84,7 @@
 
 ### Instructions
 
-1. Start the CARLA simulator by [downloading](https://github.com/carla-simulator/carla/releases/0.9.13) and running the simulator:
+1. Start the CARLA simulator(**0.9.13**) by [downloading](https://github.com/carla-simulator/carla/releases/0.9.13) and running the simulator:
   ```sh
   ./CarlaUE4.sh
   ```
